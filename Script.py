@@ -53,9 +53,9 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 ⍟ Movies Request Group: <a href=https://t.me/+yRq4k6J8o2E0OWJl>Prime Movie Request Group</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Prime_Nayem>S.H Nayem</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Prime_Nayem>𝐒.𝐇 𝐍𝐀𝐘𝐄𝐌</a>
 
-👥 Any Problem sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/Prime_Bots_Support_RoBot>Prime 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 Any Problem sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/Prime_Bots_Support_RoBot>𝐒.𝐇 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Prime_Movies4U>Prime 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
@@ -66,7 +66,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 ⍟ Main Channel: <a href=https://t.me/Prime_Movies4U>Prime Movie⚡</a>
 
-👥 Any Problem sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/Prime_Bots_Support_RoBot>Prime 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 Any Problem sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/Prime_Bots_Support_RoBot>𝐒.𝐇 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
 """
@@ -81,15 +81,15 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 2) ɢɪᴠᴇ ᴀ ɴᴀᴍᴇ ꜰᴏʀ ʏᴏᴜʀ ʙᴏᴛ.
 3) ɢɪᴠᴇ ᴀ ᴜɴɪǫᴜᴇ ᴜsᴇʀɴᴀᴍᴇ.
 4) ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴀ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ.
-5) ꜰᴏʀᴡᴀʀᴅ ᴛʜᴀᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴍᴇ.
+5) ꜰᴏʀᴡᴀʀᴅ ᴛʜᴀᴛ ᴍᴇssᴀɢᴇ And Connect ➠ @PRIME_NAYEM.
 
-ᴛʜᴇɴ ɪ ᴀᴍ ᴛʀʏ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ᴄᴏᴘʏ ʙᴏᴛ ᴏғ ᴍᴇ ғᴏʀ ʏᴏᴜ ᴏɴʟʏ 😌</b>"""
+ᴛʜᴇɴ ɪ ᴀᴍ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ᴏғ ᴍᴇ ғᴏʀ ʏᴏᴜ ᴏɴʟʏ 😌</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Prime Movies Store RoBᴏᴛ ☺️
+    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs 𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐒𝐓𝐎𝐑𝐄 𝐢𝐁𝐎𝐓 ☺️
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
@@ -103,7 +103,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Ask Doubt on telegram @KingVJ01
 
 
-    CHELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Prime Movies Store RoBᴏᴛ ☺️
+    CHELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ 𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐒𝐓𝐎𝐑𝐄 𝐢𝐁𝐎𝐓 ☺️
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
