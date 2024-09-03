@@ -24,8 +24,8 @@ API_ID = int(environ.get("API_ID", "25425840"))
 API_HASH = environ.get("API_HASH", "e6ea2eca4aa38e965511f323e5ffa578")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://graph.org/file/1b5d8822491d62882fffb.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7057105056').split()]
+PICS = (environ.get('PICS', 'https://graph.org/file/aa8cdc488e36b9a9898c6.jpg')).split() # Bot Start Picture
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5926160191').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "PRIME_MOVIES_STORE_iBOT") # without @
 PORT = environ.get("PORT", "8080")
 
