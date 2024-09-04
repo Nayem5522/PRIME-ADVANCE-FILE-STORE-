@@ -79,10 +79,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('💝 Movie Request Group ❤️‍🔥', url='https://t.me/+OzcPK0fNNew5Yjk1')
+            InlineKeyboardButton('💝 𝐌𝐎𝐕𝐈𝐄𝐒 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏 ❤️‍🔥', url='https://t.me/+OzcPK0fNNew5Yjk1')
             ],[
-            InlineKeyboardButton('☢️ Any Problem sᴜᴘᴘᴏʀᴛ For Me ☢️', url='https://t.me/Prime_Bots_Support_RoBot'),
-            InlineKeyboardButton('✨ Main Channel ✨', url='https://t.me/Prime_Movies4U')
+            InlineKeyboardButton('☢️ 𝐀𝐃𝐌𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ☢️', url='https://t.me/Prime_Admin_Support_ProBot'),
+            InlineKeyboardButton('✨ 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✨', url='https://t.me/Prime_Movies4U')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -433,10 +433,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('💝 Movie Request Group ❤️‍🔥', url='https://t.me/+OzcPK0fNNew5Yjk1')
+            InlineKeyboardButton('💝 𝐌𝐎𝐕𝐈𝐄𝐒 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏 ❤️‍🔥', url='https://t.me/+OzcPK0fNNew5Yjk1')
             ],[
-            InlineKeyboardButton('☢️ Any Problem sᴜᴘᴘᴏʀᴛ For Me ☢️', url='https://t.me/Prime_Bots_Support_RoBot'),
-            InlineKeyboardButton('✨ Main ᴄʜᴀɴɴᴇʟ ✨', url='https://t.me/Prime_Movies4U')
+            InlineKeyboardButton('☢️ 𝐀𝐃𝐌𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ☢️', url='https://t.me/Prime_Bots_Support_RoBot'),
+            InlineKeyboardButton('✨ 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✨', url='https://t.me/Prime_Movies4U')
             ],[
             InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
             ],[
