@@ -25,7 +25,7 @@ API_HASH = environ.get("API_HASH", "e6ea2eca4aa38e965511f323e5ffa578")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/aa8cdc488e36b9a9898c6.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5926160191').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7057105056').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "PRIME_MOVIES_STORE_iBOT") # without @
 PORT = environ.get("PORT", "8080")
 
@@ -48,7 +48,7 @@ AUTO_DELETE = int(environ.get("AUTO_DELETE", "20")) # Time in Minutes
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002196408894"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002184630716"))
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
