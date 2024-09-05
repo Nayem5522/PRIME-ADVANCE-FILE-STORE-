@@ -81,7 +81,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💝 𝐌𝐎𝐕𝐈𝐄𝐒 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏 ❤️‍🔥', url='https://t.me/+OzcPK0fNNew5Yjk1')
             ],[
-            InlineKeyboardButton('☢️ 𝐏𝐑𝐈𝐌𝐄 𝐁𝐎𝐓'𝐒 ', url='https://t.me/Prime_Botz'),
+            InlineKeyboardButton('☢️ 𝐏𝐑𝐈𝐌𝐄 𝐁𝐎𝐓'𝐒 ☢️ ', url='https://t.me/Prime_Botz'),
             InlineKeyboardButton('✨ 𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄 ✨', url='https://t.me/Prime_Movies4U')
             ],[
             InlineKeyboardButton('🧑‍🏭𝙷𝙴𝙻𝙿*𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Prime_Admin_Support_ProBot'),
