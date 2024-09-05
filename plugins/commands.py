@@ -137,7 +137,7 @@ async def start(client, message):
                     InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                 ]]
                 await message.reply_text(
-                    text="<b>You are not verified !\nKindly verify to continue !</b>",
+                    text="<b>You are not verified !\nKindly verify to continue !\nJust Verify One Time And Get \nMovies For next 24hr without any \nverification (Ad)\n\nশুধু একবার verify করুন এবং পরবর্তী !\n24 ঘন্টার জন্য কোনো Ad ছাড়াই সিনেমা পান \nverify এ ক্লিক করুন verify করতে\n\nClick The Button Below \nTo Check How to Verify✅ See verified tutorial</b>",
                     protect_content=True,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
@@ -252,7 +252,7 @@ async def start(client, message):
                 InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
             ]]
             await message.reply_text(
-                text="<b>You are not verified !\nKindly verify to continue !</b>",
+                text="<b>You are not verified !\nKindly verify to continue !\nJust Verify One Time And Get \nMovies For next 24hr without any \nverification (Ad)\n\nশুধু একবার verify করুন এবং পরবর্তী !\n24 ঘন্টার জন্য কোনো Ad ছাড়াই সিনেমা পান \nverify এ ক্লিক করুন verify করতে\n\nClick The Button Below \nTo Check How to Verify✅ See verified tutorial</b>",
                 protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
