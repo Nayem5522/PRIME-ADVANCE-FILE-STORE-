@@ -49,13 +49,15 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
-⍟ Main Channel: <a href=https://t.me/Prime_Movies4U>Prime Movie⚡</a>
+⍟ 𝙼𝙰𝙸𝙽 𝙼𝙾𝚅𝙸𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/Prime_Movies4U>𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄 ✨</a>
 
-⍟ Movies Request Group: <a href=https://t.me/+yRq4k6J8o2E0OWJl>𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a>
+⍟ 𝙼𝙰𝙸𝙽 𝙱𝙾𝚃'𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/Prime_Botz>𝐏𝐑𝐈𝐌𝐄 𝐁𝐎𝐓'𝐒 ✨</a>
+
+⍟ 𝙼𝙾𝚅𝙸𝙴𝚂 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙶𝚁𝙾𝚄𝙿: <a href=https://t.me/+yRq4k6J8o2E0OWJl>𝐏𝐑𝐈𝐌𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a>
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Prime_Nayem>𝐒.𝐇 𝐍𝐀𝐘𝐄𝐌</a>
 
-👥 Any Problem sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/Prime_Bots_Support_RoBot>𝐒.𝐇 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : <a href=https://t.me/Prime_Admin_Support_ProBot>𝐒.𝐇 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Prime_Movies4U>Prime 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
