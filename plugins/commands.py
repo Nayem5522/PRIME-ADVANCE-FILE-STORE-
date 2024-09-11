@@ -140,7 +140,7 @@ async def start(client, message):
                  ]]
                 await message.reply_text(
                     text="<b>You are not verified !\nKindly verify to continue !\n\nJust Verify One Time And Get \nMovies For next 24hr without any \nverification (Ad)\n\nশুধু একবার verify করুন এবং পরবর্তী !\n24 ঘন্টার জন্য কোনো Ad ছাড়াই সিনেমা পান \n\n🔻verified করতে verify 🔥👇 এ ক্লিক করুন\n\n🔻(How to Open Link & verify✅ এ‌ ক্লিক করে কিভাবে verify করবেন তা দেখে নিন)\n\nClick The Button Below To Check How to Open Link & Verify✅ See verified tutorial\n\n 🔻যদি এভাবে না করে ডাইরেক্ট ফাইল চান তাহলে ক্লিক করুন Remove Ads ⭐ 👇</b>",
-                    protect_content=True,
+                    protect_content=False,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
                 return
@@ -257,7 +257,7 @@ async def start(client, message):
              ]]
             await message.reply_text(
                 text="<b>You are not verified !\nKindly verify to continue !\n\nJust Verify One Time And Get \nMovies For next 24hr without any \nverification (Ad)\n\nশুধু একবার verify করুন এবং পরবর্তী !\n24 ঘন্টার জন্য কোনো Ad ছাড়াই সিনেমা পান \n\n🔻verified করতে verify 🔥👇 এ ক্লিক করুন\n\n🔻(How to Open Link & verify✅ এ‌ ক্লিক করে কিভাবে verify করবেন তা দেখে নিন)\n\nClick The Button Below To Check How to Open Link & Verify✅ See verified tutorial\n\n 🔻যদি এভাবে না করে ডাইরেক্ট ফাইল চান তাহলে ক্লিক করুন Remove Ads ⭐ 👇</b>",
-                protect_content=True,
+                protect_content=False,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
             return
